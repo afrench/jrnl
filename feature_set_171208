@@ -1,0 +1,11 @@
+
+######### feature set management #########
+# jrnl_post_0.1
+# minimum viable fileset for posting to github - o
+# opens a yymmdd.jrnl file in the /Jrnl folder - v
+# Creates the ~/Documents/Jrnl/ folder if one does not exist - v
+
+# jrnl_post_0.2 
+# my own means of managing versions for development
+# completed comments for launch - 
+# completed 
