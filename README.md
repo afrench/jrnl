@@ -34,3 +34,6 @@ Option 1) From Search
 	- uncluttered tools nurture uncluttered thoughts. ;
 	- i'm a minimalist. 
 	- no. 
+
+
+here's a change I made on my machine, just now. '
