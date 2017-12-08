@@ -1,5 +1,12 @@
 #! /bin/bash 
 
+# jrnl project is live on github at   https://github.com/afrench/jrnl
+# the README has started
+# the countdown to launch has begun
+# iterm2 is the model
+# it's an open project
+
+
 today=$(date +"%y%m%d")
 mkdir -p ~/Documents/Jrnl/
 vim ~/Documents/Jrnl/$today.jrnl
