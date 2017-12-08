@@ -13,7 +13,7 @@ This is that, running on Mac.
 	
 # Open tomorrow's jrnl file. 
 	1) Wait until it's tomorrow.
-	2) Follow insturctions for "Open today's jrnl file. 
+	2) Follow insturctions for "Open today's jrnl file."
 
 # Open yesterday's jrnl file. 
 	Use some other software that does lots of things to .txt files. 
