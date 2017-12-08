@@ -1,0 +1,6 @@
+#! /bin/bash 
+
+today=$(date +"%y%m%d")
+mkdir -p ~/Documents/Jrnl/
+vim ~/Documents/Jrnl/$today.jrnl
+
