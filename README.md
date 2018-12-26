@@ -1,7 +1,8 @@
 # jrnl
 You know that spot you have for your best thinking - early morning musings, poems for your sweetheart, names for your unborn children,  dreams for the future, treasured stories from your past? You know, that beautifully blank page that invites you to think and be your best? Oh you don't have one? Here, try ours.  
 # Setup
-copy the jrnl file and place it in a text file in your ~/ directory. 
+  - copy the jrnl.sh file and place it in a text file in your /user/local/bin directory.
+  - open your .bash_profile and add 'alias jrnl='/usr/local/bin/jrnl.fish'
 # Use
 Option 1) From Search
 	- command+Spacebar opens up search. 
